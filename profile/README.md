@@ -9,7 +9,7 @@ Coding for community is a club that is designed to assist other clubs/organizati
 to start a lot of for-fun coding projects as well to have our members gain experience.
 
 ## How do I start?
-Check out our tutorials repository if you need a quick refresher of how to do things. We will also be teaching a lot of these things during club time.
+We will be teaching most of the basic knowledge you need during club time; however, if you need a quick refresher, click on our .github repository, and click the "Wiki" page. Here, we will have some basic examples/tutorials if you need a quick refresher.
 
 ## When do we meet?
 Ginger Fridays, 2:45-3:05. Later on during the year, we might offer more club times. None of the meetings are required; so come when you can!
