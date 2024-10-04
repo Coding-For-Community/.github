@@ -22,10 +22,11 @@ We will be teaching most of the basic knowledge you need during club time; howev
 
 Here are some skills you need:
 - Wordpress
+- Google Sites
 - Basic Python + Typescript knowledge
 - HTML/CSS
 - React
 - Django
 
 ## When do we meet?
-Ginger Fridays, 2:45-3:05. Later on during the year, we might offer more club times. None of the meetings are required; so come when you can!
+Ginger Fridays, 3:05-3:30 in C127. Later on during the year, we might offer more club times. None of the meetings are required, so come when you can!
