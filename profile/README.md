@@ -9,7 +9,7 @@ Coding for Community is a club that is designed to assist other clubs/organizati
 
 ## What are our current projects?
 
-- Model UN website (Wordpress)
+- Model UN website (Google Sites)
 - CA Band website (React)
 - CA Tri-M website (React + Django) 
 - Robotics Team operator interface (React)
